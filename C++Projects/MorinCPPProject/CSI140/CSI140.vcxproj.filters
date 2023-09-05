@@ -16,10 +16,19 @@
     <Filter Include="Source Files\Module1">
       <UniqueIdentifier>{56f75a38-787c-4af8-942c-96deecf1ef46}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Module2">
+      <UniqueIdentifier>{41b94324-8d9b-4e22-a391-9d263e432283}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="beginning.cpp">
       <Filter>Source Files\Module1</Filter>
+    </ClCompile>
+    <ClCompile Include="1001.cpp">
+      <Filter>Source Files\Module2</Filter>
+    </ClCompile>
+    <ClCompile Include="1006.cpp">
+      <Filter>Source Files\Module2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
