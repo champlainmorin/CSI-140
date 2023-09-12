@@ -2,7 +2,7 @@
 #include <sstream> // Stringstream class
 using namespace std;
 
-int main() {
+int maine() {
 
     int x;
     cin >> x;

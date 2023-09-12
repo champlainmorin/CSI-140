@@ -27,8 +27,5 @@
     <ClCompile Include="1001.cpp">
       <Filter>Source Files\Module2</Filter>
     </ClCompile>
-    <ClCompile Include="1006.cpp">
-      <Filter>Source Files\Module2</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
